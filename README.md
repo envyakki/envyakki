@@ -59,6 +59,21 @@ const developer = {
 
 ---
 
+### 🛡️ Flagship Project
+
+<div align="center">
+
+### [SentinelSec — Static Application Security Testing (SAST) Engine](https://github.com/envyakki/sentinel-sec)
+*Automated vulnerability auditor & security scanner mapped to OWASP Top 10 and CWE standards.*
+
+[![Live Web Dashboard](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black)](https://envyakki.github.io/sentinel-sec/)
+[![Source Code](https://img.shields.io/badge/View%20Repo-SentinelSec-7928CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/envyakki/sentinel-sec)
+[![OWASP Top 10](https://img.shields.io/badge/OWASP-Mapped-FF007A?style=for-the-badge)](https://owasp.org)
+
+</div>
+
+---
+
 ### 📊 Proof of Work & Git Velocity
 
 <div align="center">
