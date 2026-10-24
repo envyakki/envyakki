@@ -59,16 +59,26 @@ const developer = {
 
 ---
 
-### 🛡️ Flagship Project
+### 🚀 Featured Flagship Engineering
 
 <div align="center">
 
-### [SentinelSec — Static Application Security Testing (SAST) Engine](https://github.com/envyakki/sentinel-sec)
+#### 🛡️ [SentinelSec](https://github.com/envyakki/sentinel-sec) — Static Application Security Testing (SAST) Engine
 *Automated vulnerability auditor & security scanner mapped to OWASP Top 10 and CWE standards.*
+<br/>
+<a href="https://envyakki.github.io/sentinel-sec/"><img src="https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Demo" /></a>
+<a href="https://github.com/envyakki/sentinel-sec"><img src="https://img.shields.io/badge/View%20Repo-SentinelSec-7928CA?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+<a href="https://owasp.org"><img src="https://img.shields.io/badge/OWASP-Mapped-FF007A?style=for-the-badge" alt="OWASP" /></a>
 
-[![Live Web Dashboard](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black)](https://envyakki.github.io/sentinel-sec/)
-[![Source Code](https://img.shields.io/badge/View%20Repo-SentinelSec-7928CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/envyakki/sentinel-sec)
-[![OWASP Top 10](https://img.shields.io/badge/OWASP-Mapped-FF007A?style=for-the-badge)](https://owasp.org)
+<br/><br/>
+
+#### 👁️ [NAYAN](https://github.com/envyakki/nayan) — Centralized ANPR & City Traffic Intelligence Platform
+*Command-and-control urban surveillance engine for real-time automated vehicle plate tracking, security alerts & traffic density.*
+<br/>
+<a href="https://github.com/envyakki/nayan"><img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend" /></a>
+<a href="https://github.com/envyakki/nayan"><img src="https://img.shields.io/badge/Frontend-React%20%7C%20TS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend" /></a>
+<a href="https://github.com/envyakki/nayan"><img src="https://img.shields.io/badge/Database-PostgreSQL-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Database" /></a>
+<a href="https://github.com/envyakki/nayan"><img src="https://img.shields.io/badge/View%20Repo-NAYAN-FF007A?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
 
 </div>
 
