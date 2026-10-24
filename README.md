@@ -12,10 +12,10 @@
 
 <!-- Aesthetic Social Pills -->
 <p align="center">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/akshay-kumar-4999a7444/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com" target="_blank">
+  <a href="https://x.com/envyakki" target="_blank">
     <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
   </a>
   <a href="mailto:akshchik12@gmail.com">
@@ -118,6 +118,12 @@ Got an ambitious idea, open source collab, or just want to banter about tech?
 
 <br/>
 
+<a href="https://www.linkedin.com/in/akshay-kumar-4999a7444/" target="_blank">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://x.com/envyakki" target="_blank">
+  <img src="https://img.shields.io/badge/DM%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
 <a href="mailto:akshchik12@gmail.com">
   <img src="https://img.shields.io/badge/Say%20Hello-00F5D4?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Say Hello" />
 </a>
