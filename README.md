@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=AKKI%20✦&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20insane%20stuff%20on%20the%20internet%20•%20No%20fluff&descAlignY=62&descAlign=50" width="100%" alt="Header" />
+<!-- Hero Banner (100% Working) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=AKKI&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20insane%20stuff%20on%20the%20internet%20%E2%80%A2%20No%20fluff&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 
-<!-- Dynamic Animated Subtitle -->
+<!-- Dynamic Animated Typing Subtitle (100% Working ASCII) -->
 <a href="https://github.com/envyakki">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=620&height=45&lines=Full-Stack+Architect+in+the+making;Turning+caffeine+into+shipped+code+☕;Breaking+production+so+you+don't+have+to;Crafting+pixels+%26+scalable+backends;Zero+corporate+fluff%2C+100%25+ship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=620&height=45&lines=Full-Stack+Architect+in+the+making;Shipping+clean+code+daily;Breaking+production+so+you+dont+have+to;Crafting+pixels+and+scalable+backends;Zero+corporate+fluff+pure+developer+drip" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -77,17 +77,16 @@ const developer = {
 
 <div align="center">
   <p>
-    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec3ff89.svg" width="65" alt="Quickdraw" title="Quickdraw" />
-    &nbsp;&nbsp;
-    <img src="https://github.githubassets.com/assets/pull-shark-default-space-cadet-5789f2d7c2f8.svg" width="65" alt="Pull Shark" title="Pull Shark" />
-    &nbsp;&nbsp;
-    <img src="https://github.githubassets.com/assets/yolo-default-14197e419890.svg" width="65" alt="YOLO" title="YOLO" />
-    &nbsp;&nbsp;
-    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-765f7c32cf1b.svg" width="65" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
-    &nbsp;&nbsp;
-    <img src="https://github.githubassets.com/assets/starstruck-default-8df5a341e869.svg" width="65" alt="Starstruck" title="Starstruck" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="70" alt="Quickdraw" title="Quickdraw: Fast on the trigger" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="70" alt="Pull Shark" title="Pull Shark: Merged PRs" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="70" alt="YOLO" title="YOLO: Direct to main" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="70" alt="Pair Extraordinaire" title="Pair Extraordinaire: Co-authored commits" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="70" alt="Starstruck" title="Starstruck: Starred repo" />
   </p>
-  <img src="https://github-profile-trophy.vercel.app/?username=envyakki&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 ---
