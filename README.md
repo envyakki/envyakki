@@ -1,4 +1,4 @@
-# Hi there, I'm envyakki! 👋
+# Hi there, I'm envyakki!👋
 
 ### 🏆 Achievements & Badges
 
