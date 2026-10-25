@@ -103,68 +103,23 @@ const developer = {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="140">
+      <td align="center" width="160">
         <a href="https://github.com/envyakki?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95" alt="Quickdraw" /><br/>
-          <sub><b>Quickdraw</b></sub><br/>
-          <sub>⚡ <i>Closed within 5m</i></sub>
-        </a>
-      </td>
-      <td align="center" width="140">
-        <a href="https://github.com/envyakki?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="95" alt="Pull Shark" /><br/>
-          <sub><b>Pull Shark</b></sub><br/>
-          <sub>🦈 <i>Merged 8+ PRs</i></sub>
-        </a>
-      </td>
-      <td align="center" width="140">
-        <a href="https://github.com/envyakki?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95" alt="YOLO" /><br/>
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="105" alt="YOLO" /><br/>
           <sub><b>YOLO</b></sub><br/>
           <sub>🚀 <i>Merged without review</i></sub>
         </a>
       </td>
-      <td align="center" width="140">
+      <td align="center" width="160">
         <a href="https://github.com/envyakki?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="95" alt="Pair Extraordinaire" /><br/>
-          <sub><b>Pair Extraordinaire</b></sub><br/>
-          <sub>🤝 <i>Co-authored commits</i></sub>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
-        <a href="https://github.com/envyakki?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="95" alt="Starstruck" /><br/>
-          <sub><b>Starstruck</b></sub><br/>
-          <sub>⭐ <i>Flagship Repo Stars</i></sub>
-        </a>
-      </td>
-      <td align="center" width="140">
-        <a href="https://github.com/envyakki?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="95" alt="Galaxy Brain" /><br/>
-          <sub><b>Galaxy Brain</b></sub><br/>
-          <sub>🧠 <i>Community Answers</i></sub>
-        </a>
-      </td>
-      <td align="center" width="140">
-        <a href="https://github.com/envyakki?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="95" alt="Arctic Code Vault" /><br/>
-          <sub><b>Arctic Code Vault</b></sub><br/>
-          <sub>❄️ <i>2020 Vault Contributor</i></sub>
-        </a>
-      </td>
-      <td align="center" width="140">
-        <a href="https://github.com/envyakki?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="95" alt="Public Sponsor" /><br/>
-          <sub><b>Public Sponsor</b></sub><br/>
-          <sub>💖 <i>Open Source Sponsor</i></sub>
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="105" alt="Quickdraw" /><br/>
+          <sub><b>Quickdraw</b></sub><br/>
+          <sub>⚡ <i>Closed within 5m</i></sub>
         </a>
       </td>
     </tr>
   </table>
 </div>
-
 ---
 
 <div align="center">
